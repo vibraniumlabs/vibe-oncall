@@ -1,12 +1,29 @@
-# Vibe OnCall
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VibraniumLabs/.github/main/logo.png" width="100">
+</p>
 
-**The Last Pager You'll Ever Need**
+<h1 align="center">Vibe OnCall</h1>
+
+<p align="center"><strong>The Last Pager You'll Ever Need</strong></p>
+
+<p align="center">
+AI-native paging, on-call, and incident management.
+</p>
+
+<p align="center">
+<a href="https://vibraniumlabs.ai"><strong>Website</strong></a> ·
+<a href="https://vibraniumlabs.ai/demo"><strong>Demo</strong></a>
+</p>
+
+<p align="center">
 
 ![Status](https://img.shields.io/badge/status-active-green)
 ![Category](https://img.shields.io/badge/category-incident--management-blue)
 ![AI](https://img.shields.io/badge/AI-incident--response-purple)
 
-AI-native paging, on-call, and incident management.
+</p>
+
+---
 
 Vibe OnCall is an **AI incident response and incident management platform** built by **Vibranium Labs** to help engineering teams move from raw alerts to structured triage, AI-assisted investigation powered by specialized incident response agents, and coordinated incident response.
 
