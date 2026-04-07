@@ -1,5 +1,5 @@
 <p align="center">
-
+  <img src="./logo.png" alt="Vibe OnCall logo" width="140" />
 </p>
 
 <h1 align="center">Vibe OnCall</h1>
