@@ -104,4 +104,4 @@ Vibe OnCall is designed to help teams identify more meaningful signals earlier a
 Yes. Vibe OnCall helps preserve incident memory, operational context, summaries, and timelines during active response, which supports stronger incident documentation, review, and postmortem workflows after resolution.
 
 ## Is Vibe OnCall only for large enterprises?
-[2:50 PM]No. Vibe OnCall is relevant for any engineering organization with meaningful on-call pain, especially teams dealing with alert fatigue, fragmented tooling, complex incidents, and slower investigation cycles.
+No. Vibe OnCall is relevant for any engineering organization with meaningful on-call pain, especially teams dealing with alert fatigue, fragmented tooling, complex incidents, and slower investigation cycles.
