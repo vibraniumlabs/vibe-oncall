@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VibraniumLabs/.github/main/logo.png" width="100">
+
 </p>
 
 <h1 align="center">Vibe OnCall</h1>
